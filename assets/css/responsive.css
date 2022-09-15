@@ -1,0 +1,149 @@
+@media (max-width: 63.9375em) {
+    .padding {
+        padding: 0 12px;
+    }
+    
+    .container {
+        margin: 0 16px;
+    }
+    .navbar-brand {
+        font-size: 20px;
+        margin: 0 16px 0 0;
+        padding: 5px 0;
+    }
+
+    .slider-heading {
+        font-size: 44px;
+    }
+
+    .slider-subheading {
+        font-size: 20px;
+    }
+    .content-conact,
+    .content-about,
+    .cotainer-section-heading {
+        font-size: 36px;
+    }
+
+    .footer-container,
+    .content-paragraph-1,
+    .content-paragraph-2,
+    .content-container {
+        margin: 0;
+    }
+
+
+    .footer-container-around,
+    .content-section-paragraph {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    
+
+    .footer-container-sub {
+        width: 100%;
+        margin-bottom: 48px;
+    }
+
+    .text-uppcase {
+        font-size: 22px;
+    }
+
+    .About-Freelancer {
+        margin: 0 !important;
+    }
+
+}
+
+@media (min-width:64em) and (max-width:95.9375em) {
+    .container {
+        margin: 0 24px;
+    }
+    
+    .navbar-brand {
+        font-size: 24px;
+    }
+
+    .content-container {
+        margin: 0;
+    }
+
+}
+
+@media (max-width: 48em) {
+    .margin-bottom {
+        margin-bottom: 48px;
+    }
+    .navbar {
+        padding: 7px 0;
+    }
+
+    .navbar-collapse {
+        display: none;
+    }
+
+    .navbar-brand {
+        justify-content: space-between;
+    }
+
+    .fa-bars,
+    .nav-btn {
+        display: block;
+        color: #fff;
+    }
+
+    .fa-bars {
+        font-size: 16px;
+    }
+
+    .nav-btn {
+        background-color: #1abc9c;
+        padding: 0.6rem;
+        border-radius: 0.5em;
+        cursor: pointer;
+        border: none;
+    }
+
+    .nav-btn:hover {
+        
+    }
+     
+    .navbar-nav,
+    .container {
+        flex-direction: column;
+    }
+
+    .navbar-item {
+        padding-left: 0;
+    }
+
+    input.form-control {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 96.25em) {
+    .content-section-img {
+        width: 400px !important;
+    }
+}
+
+@media (min-width: 82.5em) {
+    .content-section-img {
+        width: 385px;
+    }
+}
+
+@media (max-width: 82.5em) and (min-width:  63.1875em) {
+    .content-section-img {
+        width: 280px;
+    }
+}
+
+@media (max-width: 63.18125em) and (min-width:48em) {
+    .content-section-img {
+        width: 330px;
+}
+}
+
